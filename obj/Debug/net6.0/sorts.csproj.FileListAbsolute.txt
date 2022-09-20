@@ -1,0 +1,15 @@
+F:\CS30\sorts\bin\Debug\net6.0\sorts.exe
+F:\CS30\sorts\bin\Debug\net6.0\sorts.deps.json
+F:\CS30\sorts\bin\Debug\net6.0\sorts.runtimeconfig.json
+F:\CS30\sorts\bin\Debug\net6.0\sorts.dll
+F:\CS30\sorts\bin\Debug\net6.0\sorts.pdb
+F:\CS30\sorts\obj\Debug\net6.0\sorts.csproj.AssemblyReference.cache
+F:\CS30\sorts\obj\Debug\net6.0\sorts.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\sorts\obj\Debug\net6.0\sorts.AssemblyInfoInputs.cache
+F:\CS30\sorts\obj\Debug\net6.0\sorts.AssemblyInfo.cs
+F:\CS30\sorts\obj\Debug\net6.0\sorts.csproj.CoreCompileInputs.cache
+F:\CS30\sorts\obj\Debug\net6.0\sorts.dll
+F:\CS30\sorts\obj\Debug\net6.0\refint\sorts.dll
+F:\CS30\sorts\obj\Debug\net6.0\sorts.pdb
+F:\CS30\sorts\obj\Debug\net6.0\sorts.genruntimeconfig.cache
+F:\CS30\sorts\obj\Debug\net6.0\ref\sorts.dll
